@@ -1,6 +1,6 @@
 # Movie-Reccommender-Model
 # Machine Learning Meets Web/Software Development
-Movie Recommender System: Transforming the Future of Technology
+NOTE: Due to the nature of this project, code cannot be shared publicly.
 # Overview
 This project was undertaken as part of a hackathon challenge to address the low customer retention of a movie-streaming service lacking a recommender system. The goal was to identify trends in movie watching, create an effective movie recommender system, and integrate it into an application to enhance user engagement and revenue for the platform.
 
