@@ -52,6 +52,10 @@ The project's outcome highlighted the importance of diverse user ratings and the
 
 # Rankings
 Out of 257 participating teams, our team secured the 146th position in the hackathon challenge.
+![Screenshot (350)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/0de4549b-a41d-47ed-9246-a0db8264060b)
+
+![Screenshot (351)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/9a8d8104-3b70-4b12-ae99-b61fa1a7e2cc)
+
 
 # Recommendations
 Encourage users to rate movies, particularly those with few ratings and infrequent raters.
