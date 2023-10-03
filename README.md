@@ -54,8 +54,6 @@ The project's outcome highlighted the importance of diverse user ratings and the
 Out of 257 participating teams, our team secured the 146th position in the hackathon challenge.
 ![Screenshot (350)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/0de4549b-a41d-47ed-9246-a0db8264060b)
 
-![Screenshot (348)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/d94c06cc-11eb-46e6-acea-a6e7de5222df)
-
 ![Screenshot (351)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/9a8d8104-3b70-4b12-ae99-b61fa1a7e2cc)
 
 
@@ -64,6 +62,8 @@ Encourage users to rate movies, particularly those with few ratings and infreque
 Consider users' watch time; movies with low watch times might indicate dissatisfaction.
 
 # Acknowledgments
+
+![Screenshot (348)](https://github.com/sandz26/Movie-Reccommender-Model/assets/71333214/437cbfe8-d657-4260-8a2d-0d23f96fc2f0)
 
 Festus Godwin (Team Lead)
 Sandile Mdluli -(Technical lead)
